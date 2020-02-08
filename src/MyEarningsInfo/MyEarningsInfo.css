@@ -1,0 +1,20 @@
+#my-earnings-info {
+  width: 100%;
+  margin-top: 20px;
+}
+
+.earning-item {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.earning-item > .amount {
+  display: inline-block;
+  width: 30%;
+  margin-left: 5px;
+}
+
+.earnings-container > hr {
+  width: 85%;
+  border: 1px solid black;
+}

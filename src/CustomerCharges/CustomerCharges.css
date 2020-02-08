@@ -1,0 +1,36 @@
+#customer-charges {
+  width: 100%;
+  border: 1px solid black;
+}
+
+.header-container {
+  display: flex;
+  justify-content: center;
+  border-bottom: 1px solid black;
+  margin-bottom: 10px;
+}
+
+.article-header {
+  margin: 5px 0
+}
+
+.charges-container {
+  width: 60%;
+}
+
+.charge-item {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.amount {
+  display: inline-block;
+  width: 35%;
+  margin-left: 5px;
+}
+
+hr {
+  width: 85%;
+  background-color: black;
+  border: 1px solid black;
+}
